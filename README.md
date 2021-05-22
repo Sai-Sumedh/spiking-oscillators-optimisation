@@ -20,3 +20,5 @@ The files:
 5. experiments_spkosc6.ipynb
 
 use the above functions to perform various experiments and observe the effect of coupling on the settling phase
+
+The file experiments_spkosc6.ipynb solves vertex colouring using a network of symmetrically coupled spiking neuron oscillators on simple graphs
